@@ -1,2 +1,3 @@
-# cursor-bloom-nextjs
- (converted from Vite to Next.js by V2NRepo)
+# Welcome to your Lovable project
+
+TODO: Document your project here
